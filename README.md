@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://ahmadfaqih796blog.github.io/](https://ahmadfaqih796blog.github.io/)
 
-- 💬 Ask me about **react, nextjs and php**
+- 💬 Ask me about **react, nextjs, feathersjs and php**
 
 - 📫 How to reach me **ahmadfaqih796@gmail.com**
 
