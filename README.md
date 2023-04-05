@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Website Developer](https://dev-hadir.vercel.app/absen/login)
 
-- 🌱 I’m currently learning **Nextjs, Feathersjs, Codeigniter4 and Laravel**
+- 🌱 I’m currently learning **Nextjs, Feathersjs, Java, Codeigniter4 and Laravel**
 
 - 👯 I’m looking to collaborate on [PeluangKerjaKu website](https://peluangkerjaku.com/)
 
