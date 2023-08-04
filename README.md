@@ -1,4 +1,4 @@
-<h1 align="center">Hallo 👋, I'm Ahmad Faqih Arifin</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Faqih Arifin</h1>
 <h3 align="center">A passionate frontend developer from Indonesia, Jakarta</h3>
 
 - 🔭 I’m currently working on [Website Developer](https://dev-hadir.vercel.app/absen/login)
