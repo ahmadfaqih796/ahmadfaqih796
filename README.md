@@ -1,4 +1,4 @@
-# Hello There, I'm Ahmad Faqih Arifin🖐️
+# Hello, I'm Ahmad Faqih Arifin🖐️
 I'm **Ahmad Faqih Arifin**. I'm a Front-End Engineer by passion and an expat by choice living now in East Jakarta, Indonesia. I have created many projects until now and have been passionate about front-end Technologies. I'm always working on a new project to upper my level.
 ## 📋  Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
